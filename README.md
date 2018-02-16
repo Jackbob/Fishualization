@@ -16,9 +16,9 @@ Depends on:
 Controls:
 Move the target with the mouse cursor. To move the target closer or further away in the scene use W and S on the keyboard.
 # Authors:
-- [David Tran](https://github.com/ddavidtran)
-- [Anton Sterner](https://github.com/antonsterner)
 - [Jakob Bertlin](https://github.com/Jackbob)
+- [Anton Sterner](https://github.com/antonsterner)
+- [David Tran](https://github.com/ddavidtran)
 - Rasmus Ståhl
 
 As part of the TNM085 Project course @ Linköping University.
